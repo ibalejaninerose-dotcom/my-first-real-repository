@@ -8,3 +8,5 @@ A simple grade calculator program.
 
 ## How to run
 Run `python calculator.py` in your terminal.
+## Updates
+- Added improvements in the improve-calculator branch.
