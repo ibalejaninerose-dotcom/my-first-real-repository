@@ -10,3 +10,6 @@ A simple grade calculator program.
 Run `python calculator.py` in your terminal.
 ## Updates
 - Added improvements in the improve-calculator branch.
+  
+## Author
+- Created by Janine Rose Ibale
